@@ -12,13 +12,23 @@
 
         <h2>View High Scores</h2>
 
-        <div>Time left = <span id="timer"></span>
+        <div id = "timer">
+            <h2>Time Left:</h2>
+            <p id = "timerDisplay">3:00</p>
+        </div>
+
+        <h3 id="questionText"></h3>
 
         <p>Try to answer the following code-related questions with the time limit. 
             Keep in mind that incorrect answers will penalize your score/time by ten seconds</p>
         
         <button id = "startQuiz">Start Quiz!</button>
+        
+        <div>
+            <table id="highScores">
 
+            </table>
+        </div>
     </body>
 
     <script src = "script.js"></script>
