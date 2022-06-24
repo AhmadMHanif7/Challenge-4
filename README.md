@@ -27,6 +27,6 @@ THEN I can save my initials and score
 ``
 Link to deployed site: https://ahmadmhanif7.github.io/Challenge-4/
 
-![Screenshot 1](Screen Shot 2022-06-23 at 11.48.24 PM.png)
-![Screenshot 2](Screen Shot 2022-06-23 at 11.48.45 PM.png)
+![Screenshot1](Screen Shot 2022-06-23 at 11.48.24 PM.png)
+![Screenshot2](Screen Shot 2022-06-23 at 11.48.45 PM.png)
 ``
